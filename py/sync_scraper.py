@@ -12,7 +12,7 @@ TARGET_DIR = BASE_DIR / "test"
 INDEX_FILE = TARGET_DIR / "hsck.json"
 BASE_URL = "https://2bfc.yuba.cloudns.be"
 PAGE_SIZE = 40
-START_PAGE_NUM = 1 
+START_PAGE_NUM = 2 
 COMPARE_LIMIT = 80 
 
 HEADERS = {"User-Agent": "Mozilla/5.0", "Referer": BASE_URL}
